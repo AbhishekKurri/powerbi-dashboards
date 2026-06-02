@@ -6,7 +6,6 @@
 - This dashboard enables stakeholders to monitor KPIs, identify business trends, evaluate product performance, and make data-driven decisions to improve overall profitability and operational efficiency.
 
 **🎯 Business Objective
-
 The goal of this dashboard is to:**
 
 - Monitor Sales & Profit Performance

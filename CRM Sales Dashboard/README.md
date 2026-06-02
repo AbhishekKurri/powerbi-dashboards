@@ -49,8 +49,6 @@ The objective of this dashboard is to:
 - Interactive Visualizations
 
 
-
-
 <img width="1447" height="811" alt="CRM_screen_1" src="https://github.com/user-attachments/assets/bb63009b-3986-4569-85e4-23668ba5df94" />
 
 <img width="1445" height="811" alt="CRM_screen_2" src="https://github.com/user-attachments/assets/e47068bb-c200-4797-871f-f4eae4b4c291" />

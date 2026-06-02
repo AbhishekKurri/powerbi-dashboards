@@ -1,5 +1,6 @@
-**📊 Superstore Performance Dashboard | Power BI
-📌 Project Overview**
+**📊 Superstore Performance Dashboard | Power BI**
+
+**📌 Project Overview**
 
 - The Superstore Performance Dashboard is an interactive Power BI analytics solution designed to provide a comprehensive view of business performance across sales, profit, customers, products, and regional operations.
 

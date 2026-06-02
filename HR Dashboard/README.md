@@ -57,4 +57,11 @@ The objective of this dashboard is to:
 - Data Modeling
 - Interactive Data Visualization
 
-  
+
+<img width="1151" height="748" alt="HR_screen_1" src="https://github.com/user-attachments/assets/158c9755-04b2-447f-864e-bce8448000df" />
+
+<img width="1165" height="637" alt="HR_screen_2" src="https://github.com/user-attachments/assets/26f4f537-54e5-429e-8844-f17b07065aad" />
+
+<img width="1159" height="637" alt="HR_screen_3" src="https://github.com/user-attachments/assets/663bccf9-0fb7-46ce-9915-bd87a4e66386" />
+
+

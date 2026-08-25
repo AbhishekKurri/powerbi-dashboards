@@ -4,8 +4,6 @@
 
 The **Telecom Customer Churn Dashboard – Regional Overview** provides a comprehensive view of customer churn, customer behavior, satisfaction, and revenue performance across different regions.
 
-The dashboard is designed to help business and analytics teams **understand why customers churn, identify key churn drivers, monitor customer satisfaction, and evaluate the associated revenue impact**. It brings together customer-level and regional metrics into an interactive view, enabling users to quickly identify trends, high-risk customer segments, and areas requiring attention.
-
 ## 🎯 Key Areas Covered
 
 * **Customer Overview** – Total customers, customer distribution, and customer trends.
@@ -29,8 +27,6 @@ The primary objective of this dashboard is to transform customer and business da
 * Data-driven customer retention strategies
 
 ## 💡 Business Value
-
-By combining **Customers + Churn + Satisfaction + Revenue + Churn Drivers** in a single analytical view, the dashboard enables stakeholders to move beyond simply measuring churn and focus on **understanding the underlying reasons behind customer loss and its business impact**.
 
 The regional overview provides a high-level starting point for identifying areas of concern, while the detailed analysis can be used to drill down into specific customer segments and churn drivers.
 
@@ -62,3 +58,15 @@ The dashboard includes metrics such as:
 **Dashboard:** Telecom Customer Churn Dashboard
 **View:** Regional Overview
 **Purpose:** Customer Retention & Churn Analytics
+
+**Glimpse**
+
+<img width="1265" height="831" alt="image" src="https://github.com/user-attachments/assets/2065a19d-9ff6-4d90-a241-04c9e4e273a0" />
+
+<img width="1283" height="821" alt="image" src="https://github.com/user-attachments/assets/f546aee8-acc6-42a2-a525-dabe185e061e" />
+
+<img width="1283" height="834" alt="image" src="https://github.com/user-attachments/assets/e174688c-1ac4-468b-926f-5e8715807c22" />
+
+<img width="1284" height="831" alt="image" src="https://github.com/user-attachments/assets/669f9fb7-9391-41d0-b46f-3736e02acac2" />
+
+<img width="1288" height="378" alt="image" src="https://github.com/user-attachments/assets/7b52d21e-8239-4485-86f0-ce2c979a95f0" />

@@ -1,0 +1,112 @@
+{
+  "name": "Telecom Executive Theme",
+  "foreground": "#252423",
+  "background": "#FFFFFF",
+  "tableAccent": "#00AEEF",
+  "dataColors": [
+    "#003366",
+    "#00AEEF",
+    "#00C853",
+    "#FFB300",
+    "#D50000",
+    "#7B1FA2",
+    "#0288D1",
+    "#546E7A",
+    "#26A69A",
+    "#EF6C00"
+  ],
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI",
+            "fontSize": 14,
+            "color": {
+              "solid": {
+                "color": "#003366"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "show": false
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#D9E2F3"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#003366"
+              }
+            }
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#666666"
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    "slicer": {
+      "*": {
+        "items": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 11,
+            "color": {
+              "solid": {
+                "color": "#003366"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI",
+      "fontSize": 18,
+      "color": "#003366"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 14,
+      "color": "#003366"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 11,
+      "color": "#666666"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 24,
+      "color": "#003366"
+    }
+  }
+}

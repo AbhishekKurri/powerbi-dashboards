@@ -35,14 +35,7 @@ The dashboard combines standard Power BI analytics with custom **Deneb visualiza
 
 
 <img width="1334" height="835" alt="image" src="https://github.com/user-attachments/assets/6d5631f8-4dba-4c07-83ec-5f6df97a371e" />
-
 <img width="1339" height="585" alt="image" src="https://github.com/user-attachments/assets/8b1d3f93-4832-4055-97b7-4481eb4da375" />
-
 <img width="1331" height="814" alt="image" src="https://github.com/user-attachments/assets/b471da45-2130-44c7-8858-8c0a6d33e9f0" />
-
 <img width="1324" height="775" alt="image" src="https://github.com/user-attachments/assets/23e02e1c-b80e-46e0-90fe-e03bff465228" />
-
 <img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/83cefd0b-d4b6-4155-9f6e-aae768ce187f" />
-
-
-

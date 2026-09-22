@@ -33,5 +33,4 @@ The dashboard is built around the following passenger attributes:
 
 The dashboard combines standard Power BI analytics with custom **Deneb visualizations** to create a more engaging data-storytelling experience.
 
-<img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/452e095a-d246-4598-9ad3-b88252169f95" />
 
